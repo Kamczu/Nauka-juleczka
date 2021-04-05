@@ -4,3 +4,10 @@
     font-size: 62.5%;
 }
 
+.logo{
+	
+}
+
+.logo > img{
+	width: 200px;
+}
