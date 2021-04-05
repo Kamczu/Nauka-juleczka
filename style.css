@@ -1,4 +1,4 @@
-/*@import url('reset.css');*/
+@import url('reset.css');
 
 :root{
     font-size: 62.5%;
@@ -10,4 +10,11 @@
 
 .logo > img{
 	width: 200px;
+}
+.pokaz{
+	width: 100px;
+	background-color: aqua;
+	padding: 10px;
+	border: dashed;
+	margin: 10px;
 }
